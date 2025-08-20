@@ -16,7 +16,3 @@ It helps enhance road safety by alerting the driver when another car or object c
 - **Language:** C / Embedded C (for microcontroller)  
 - **Hardware:** Ultrasonic Sensor, Buzzer, Microcontroller (e.g., Arduino / PIC)  
 - **Environment:** Proteus / Arduino IDE (if simulation used)
-
----
-
-## 📂 Project Structure
